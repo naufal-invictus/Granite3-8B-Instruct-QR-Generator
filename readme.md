@@ -28,7 +28,8 @@ Allow the user to specify the filename, with .jpg format.
 1. Install Python Lib:
    pip install qrcode[pil]
 2. Run The Command:
-   python qr_generator.py "Your text or URL here" [optional] "filename.jpg"
+   python qr_generator.py "Your text or URL here" "filename.jpg"
 
 
 Goal: The program should be simple, interactive, and user-friendly, allowing users to generate and save QR codes directly from the command line.
+
